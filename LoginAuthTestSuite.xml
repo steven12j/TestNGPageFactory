@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name = "SuiteTest">
+
+<test name = "Login Authentication">
+
+<classes>
+ <class name = "com.nexsoft.cicool.TestLoginAuth"></class>
+</classes>
+
+</test>
+
+</suite>
